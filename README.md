@@ -1,6 +1,6 @@
-# reader
 A simple python-inspired terminal data reader.
 
+# Examples
 ## A simple example of its use is:
 ``` 
 extern crate reader;
