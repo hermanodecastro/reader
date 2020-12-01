@@ -1,0 +1,11 @@
+[package]
+name = "reader"
+version = "0.1.0"
+authors = ["Hermano <srhermanodecastro@gmail.com>"]
+edition = "2018"
+description = "A simple python-inspired terminal data reader"
+keywords = ["input", "scan", "scanf", "read", "readline", "io"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
