@@ -5,7 +5,9 @@ authors = ["Hermano <srhermanodecastro@gmail.com>"]
 edition = "2018"
 description = "A simple python-inspired terminal data reader"
 keywords = ["input", "scan", "scanf", "read", "readline", "io"]
+repository = "https://github.com/hermanodecastro/reader"
+readme = "README.md"
+license-file = "LICENSE"
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
-[dependencies]
+[lib]
+name = "reader"
