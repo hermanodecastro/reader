@@ -1,10 +1,10 @@
 [package]
 name = "reader"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["Hermano <srhermanodecastro@gmail.com>"]
 edition = "2018"
 description = "A simple python-inspired terminal data reader"
-keywords = ["input", "scanf", "read", "readline", "io"]
+keywords = ["input", "scanf", "cmd", "readline", "io"]
 repository = "https://github.com/hermanodecastro/reader"
 readme = "README.md"
 license-file = "LICENSE"
