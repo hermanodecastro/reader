@@ -1,7 +1,9 @@
-A simple python-inspired terminal data reader.
+# Reader
+![GitHub](https://img.shields.io/github/license/hermanodecastro/reader)
+> A simple python-inspired terminal data reader.
 
-# Examples
-## A simple example of its use is:
+## Examples
+### A simple example of its use is:
 ``` 
 extern crate reader;
 use reader::input;
@@ -10,7 +12,7 @@ let name = input("Enter your name: ");
 println!("Your name is: {}", name);
 ```
 
-## Convert a String to Integer:
+### Convert a String to Integer:
 ```
 extern crate reader;
 use reader::{input, int};
@@ -32,7 +34,7 @@ let age = int(input("Enter your age: ")).unwrap() as i8;
 println!("Your age is: {}", age);
 ```
 
-## Convert a String to Float:
+### Convert a String to Float:
 ```
 extern crate reader;
 use reader::{input, float};
